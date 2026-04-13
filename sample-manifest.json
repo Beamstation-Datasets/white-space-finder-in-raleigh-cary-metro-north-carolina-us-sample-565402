@@ -1,0 +1,12 @@
+{
+  "export_job_id": "4b6dd826-2ffc-4514-a588-4826f50e3d0a",
+  "id_short": 565402,
+  "published_at": "2026-04-13T19:24:35Z",
+  "repo_name": "white-space-finder-in-raleigh-cary-metro-north-carolina-us-sample-565402",
+  "sample_asset_name": "beamstation_565402_food_and_drink-us-raleighcarync_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/565402/beamstation_565402_food_and_drink-us-raleighcarync_SAMPLE_DIST.csv",
+  "sample_records": 7,
+  "sample_sha256": "9c65bcce6a5d0b1fe8fff14e54a2318f6e34749c3536a1e4c4af369b6aa84bf3",
+  "sample_size_bytes": 41813,
+  "total_records": 75
+}
