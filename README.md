@@ -9,9 +9,9 @@
 | Dataset ID | `565402` |
 | Location | Raleigh-Cary, NC |
 | Category | Restaurants |
-| Full dataset size | 69 records |
-| Free sample size | 6 records (8.7%) |
-| Last export | 2026-04-15T07:02:15.637561+00:00 |
+| Full dataset size | 63 records |
+| Free sample size | 6 records (9.52%) |
+| Last export | 2026-04-22T13:14:05.664875+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-raleigh-cary-metro-north-carolina-us-sample-565402/releases/download/sample-latest/beamstation_565402_food_and_drink-us-raleighcarync_SAMPLE_DIST.csv) |
 
 ## What is in this sample
